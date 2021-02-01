@@ -4,24 +4,27 @@
 
 :book: Reading...
 
-Deep Residual Learning for Image Recognition
+>  Deep Residual Learning for Image Recognition
 
-Spectral Normalization for GANs
+> <b><span style="color: white; background-color: lightblue">Spectral Normalization for GANs</span></b>
 
-infoGAN
+> <b><span style="color: white; background-color: lightblue">Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation
+> </span></b>
 
-Neural tangent kernel: Convergence and generalization in neural networks
+>  infoGAN
 
-DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES
+> Neural tangent kernel: Convergence and generalization in neural networks
+
+> DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES
 
 
 
 :books: Papers read
 
-Rich feature hierarchies for accurate object detection and semantic segmentation
+> Rich feature hierarchies for accurate object detection and semantic segmentation
 
-Fast R-CNN
+> Fast R-CNN
 
-YOLO
+> YOLO
 
-Wassertein GAN
+>  Wassertein GAN
