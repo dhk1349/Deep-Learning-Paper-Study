@@ -6,9 +6,9 @@
 
 Deep Residual Learning for Image Recognition
 
-YOLO
+Spectral Normalization for GANs
 
-Spextral Normalization for GANs
+infoGAN
 
 Neural tangent kernel: Convergence and generalization in neural networks
 
@@ -21,5 +21,7 @@ DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES
 Rich feature hierarchies for accurate object detection and semantic segmentation
 
 Fast R-CNN
+
+YOLO
 
 Wassertein GAN
