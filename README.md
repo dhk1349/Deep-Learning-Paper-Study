@@ -8,9 +8,6 @@
 
 > <b><span style="color: white; background-color: lightblue">Spectral Normalization for GANs</span></b>
 
-> <b><span style="color: white; background-color: lightblue">Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation
-> </span></b>
-
 >  infoGAN
 
 > Neural tangent kernel: Convergence and generalization in neural networks
@@ -28,3 +25,6 @@
 > YOLO
 
 >  Wassertein GAN
+
+> <b><span style="color: white; background-color: lightblue">Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation
+> </span></b>
