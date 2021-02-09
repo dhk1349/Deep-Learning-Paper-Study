@@ -6,9 +6,9 @@
 
 >  Deep Residual Learning for Image Recognition
 
-> <b><span style="color: white; background-color: lightblue">Spectral Normalization for GANs</span></b>
+> <b><span style="color: white; background-color: lightblue">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks Jun-Yan</span></b>
 
->  infoGAN
+>  <b><span style="color: white; background-color: lightblue">infoGAN</span></b>
 
 > Neural tangent kernel: Convergence and generalization in neural networks
 
@@ -18,13 +18,27 @@
 
 :books: Papers read
 
+* Detection
+
 > Rich feature hierarchies for accurate object detection and semantic segmentation
 
 > Fast R-CNN
 
 > YOLO
 
+> SSD
+
+* GAN
+
 >  Wassertein GAN
+
+* Domain Adaptation
 
 > <b><span style="color: white; background-color: lightblue">Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation
 > </span></b>
+
+* Adversarial
+
+> Adversarial Examples Improve Image Recognition
+
+* NTK
