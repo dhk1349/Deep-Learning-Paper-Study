@@ -6,8 +6,6 @@
 
 >  Deep Residual Learning for Image Recognition
 
-> <b><span style="color: white; background-color: lightblue">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks Jun-Yan</span></b>
-
 >  <b><span style="color: white; background-color: lightblue">infoGAN</span></b>
 
 > Neural tangent kernel: Convergence and generalization in neural networks
@@ -36,6 +34,8 @@
 
 > <b><span style="color: white; background-color: lightblue">Normalized Wasserstein for Mixture Distributions with Applications in Adversarial Learning and Domain Adaptation
 > </span></b>
+
+> <b><span style="color: white; background-color: lightblue">Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks Jun-Yan</span></b>
 
 * Adversarial
 
