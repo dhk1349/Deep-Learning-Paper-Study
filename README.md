@@ -6,7 +6,7 @@
 
 >  Deep Residual Learning for Image Recognition
 
->  <b><span style="color: white; background-color: lightblue">infoGAN</span></b>
+>  
 
 > Neural tangent kernel: Convergence and generalization in neural networks
 
@@ -29,6 +29,8 @@
 * GAN
 
 >  Wassertein GAN
+
+> <b><span style="color: white; background-color: lightblue">infoGAN</span></b>
 
 * Domain Adaptation
 
