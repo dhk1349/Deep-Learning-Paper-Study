@@ -30,6 +30,8 @@
 
 >  Wassertein GAN
 
+> Cycle GAN
+
 > <b><span style="color: white; background-color: lightblue">infoGAN</span></b>
 
 * Domain Adaptation
