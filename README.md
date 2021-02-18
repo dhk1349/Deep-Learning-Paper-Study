@@ -6,7 +6,9 @@
 
 >  Deep Residual Learning for Image Recognition
 
->  
+>  Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
+
+> Adversarial examples are not bugs, they are features
 
 > Neural tangent kernel: Convergence and generalization in neural networks
 
