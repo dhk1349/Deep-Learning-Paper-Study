@@ -47,4 +47,6 @@
 
 > Adversarial Examples Improve Image Recognition
 
+> Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
+
 * NTK
