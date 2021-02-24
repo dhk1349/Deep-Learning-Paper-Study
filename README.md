@@ -14,7 +14,10 @@
 
 > DEEP NEURAL NETWORKS AS GAUSSIAN PROCESSES
 
+> Dropout: A Simple Way to Prevent Neural Networks from Overfitting
 
+> Batch Normalization: Accelerating Deep Network Training by Reducing Internal
+> Covariate Shift
 
 :books: Papers read
 
@@ -49,4 +52,10 @@
 
 > Making an Invisibility Cloak: Real World Adversarial Attacks on Object Detectors
 
+> DeepFool: a simple and accurate method to fool deep neural networks
+
 * NTK
+
+
+
+* Etc...
